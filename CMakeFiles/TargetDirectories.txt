@@ -1,0 +1,3 @@
+C:/dev/c/bskiji/build/CMakeFiles/bskiji.dir
+C:/dev/c/bskiji/build/CMakeFiles/edit_cache.dir
+C:/dev/c/bskiji/build/CMakeFiles/rebuild_cache.dir
